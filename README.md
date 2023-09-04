@@ -16,3 +16,9 @@ or
 ```
 npm i
 ```
+
+- To start the application run the command:
+
+```
+ng serve -o
+```
